@@ -27,6 +27,8 @@ body{
     font-size: 30px;
     font-weight: bold;
     color: white;
+    margin-left: 10%;
+   
 }
 .cart{
     display: flex;
@@ -36,6 +38,7 @@ body{
     padding: 7px 10px;
     border-radius: 3px;
     width: 80px;
+   margin-right: 10%;
 }
 .cart p{
     height: 22px;
